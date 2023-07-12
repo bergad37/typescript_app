@@ -1,10 +1,8 @@
 "use strict";
-let sales = 123456789;
-let course = 'Typscript';
-let is_published = true;
-let level;
-let numbers = [];
-numbers[0] = 3;
-numbers[3] = 2;
-console.log(numbers);
+const small = 1;
+const medium = 2;
+const large = 3;
+;
+let mySize = 5;
+console.log(mySize);
 //# sourceMappingURL=index.js.map
