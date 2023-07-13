@@ -1,8 +1,10 @@
 "use strict";
-const small = 1;
-const medium = 2;
-const large = 3;
-;
-let mySize = 5;
-console.log(mySize);
+let employee = {
+    id: 1,
+    name: 'Gad',
+    retire: (date) => {
+        console.log(date);
+    }
+};
+console.log(employee);
 //# sourceMappingURL=index.js.map
